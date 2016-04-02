@@ -15,4 +15,4 @@ git push dokku
 
 Using
 ======
-It is best to try it with our kibana project.
+It is best to try it with our kibana project - https://github.com/sglebs/kibana
